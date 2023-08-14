@@ -1,10 +1,32 @@
-# Infinite Scrolling & Filter
+# JavaScript Course - Content preview
 
-Display blog posts from [jsonplaceholder](https://jsonplaceholder.typicode.com) and add infinite scroll to fetch posts and also add filter box
+![My Certificate preview for JavaScript Course](./Certificate/UC-c4f9b67b-c884-4ae6-a074-bd8cf6a2d932.jpg)
 
-## Project Specifications
+<style>
+  .main-heading {
+    text-align: center;
+    color: #fff;
+    font-size: 3rem;
+    font-weight: bold;
+  }
 
-- Create UI & custom CSS loader animation & glassmorphism
-- Fetch initial posts from API and display
-- Scroll down, show loader and fetch next set of posts
-- Add filtering for fetched posts
+  .para {
+    
+  }
+</style>
+
+<h1 class="main-heading">
+  This is JavaScript - The Complete Guide 2023 :heart:
+</h1>
+
+<p class="para">Hi, My name is Ahmed Hesham and this is my apply what I learned in this course with the instructor</p>
+
+## Welcome! 👋
+
+Thanks for checking out this JavaScript content.
+
+**To complete this challenge, I studied for a long time and it was a very interesting trip and I learned a lot from Maxmilian and I wish for him a great success and special thanks to those in charge of the Al-Bunyan Al-Marsous competition, especially Engineer Ahmed Fathi, for their efforts, and I wish for them a great success.**
+
+### Course Link
+
+![Course Link](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced)
